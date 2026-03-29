@@ -10,6 +10,8 @@
 
 2. GitHub創建與微積分數值驗:本專案整合了 GitHub 版本控制 與 Java 數值分析實作。[GitHub帳號創建與微積分數值驗證系統實作.docx](https://github.com/user-attachments/files/26329372/GitHub.docx)
 
+3. 進階狼人殺遊戲:具備物件導向（OOP）特性,驗證複雜遊戲邏輯之強健性。[進階狼人殺遊戲.docx](https://github.com/user-attachments/files/26329598/default.docx)
+
 其他課程相關 Java 練習程式。
 
 ## 開發工具
