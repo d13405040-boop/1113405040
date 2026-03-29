@@ -12,6 +12,8 @@
 
 3. 進階狼人殺遊戲:具備物件導向（OOP）特性,驗證複雜遊戲邏輯之強健性。[進階狼人殺遊戲.docx](https://github.com/user-attachments/files/26329598/default.docx)
 
+4. 進階終端機登入管理系統:具備層次化權限與穩定錯誤處理機制的應用程式。[進階終端機登入管理.docx](https://github.com/user-attachments/files/26329772/default.docx)
+
 其他課程相關 Java 練習程式。
 
 ## 開發工具
