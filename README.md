@@ -16,7 +16,7 @@
 
 5. 排序演算法運算實作:對其執行時間進行定量之時間複雜度分析。[排序演算法運算實作.docx](https://github.com/user-attachments/files/26338103/default.docx)
 
-6. TimeComplexity：透過增加資料量，觀察steps是如何隨著資料變多而變。
+6. TimeComplexity：透過增加資料量，觀察steps是如何隨著資料變多而變。https://docs.google.com/document/d/1FQqbD88whdal21tAyCUnpHvXE5a-AHD4/edit?usp=drivesdk&ouid=108304891351830893948&rtpof=true&sd=true
 
 其他課程相關 Java 練習程式。
 
