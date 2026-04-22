@@ -18,7 +18,7 @@
 
 6. TimeComplexity：透過增加資料量，觀察steps是如何隨著資料變多而變。https://docs.google.com/document/d/1FQqbD88whdal21tAyCUnpHvXE5a-AHD4/edit?usp=drivesdk&ouid=108304891351830893948&rtpof=true&sd=true
 
-7.AlgorithmAssignment:透過對活動結束時間的排序與遞迴子問題求解。[加權區間調度與霍夫曼編碼.docx](https://github.com/user-attachments/files/26959216/default.docx)
+7. AlgorithmAssignment:透過對活動結束時間的排序與遞迴子問題求解。[加權區間調度與霍夫曼編碼.docx](https://github.com/user-attachments/files/26959216/default.docx)
 
 其他課程相關 Java 練習程式。
 
